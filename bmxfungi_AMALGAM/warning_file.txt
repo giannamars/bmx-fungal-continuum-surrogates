@@ -1,0 +1,3 @@
+-------------- AMALGAM warning file --------------
+AMALGAM WARNING: Field 'density' of structure options not defined -> resort to default setting, options.density = 'crowding'
+----------- End of AMALGAM warning file ----------
